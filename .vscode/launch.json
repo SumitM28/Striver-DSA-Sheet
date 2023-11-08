@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Striver-DSA-Sheet/01_basics/02_Patterns",
-      "program": "d:/Striver-DSA-Sheet/01_basics/02_Patterns/build/Debug/outDebug",
+      "cwd": "d:/Striver-DSA-Sheet/01_basics/06_hashing",
+      "program": "d:/Striver-DSA-Sheet/01_basics/06_hashing/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
