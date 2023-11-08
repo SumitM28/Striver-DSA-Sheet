@@ -6,6 +6,7 @@ pattern 12th
     1 2 3 4 4 3 2 1
 */
 
+
 #include <bits/stdc++.h>
 using namespace std;
 
